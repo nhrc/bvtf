@@ -1,5 +1,6 @@
 <!-- BEGIN PAGE HEADER HERE -->
 <?php include '_includes/_header.php'; ?>
+<?php include '_includes/_phase1_navigation.php'; ?>
 <!-- END PAGE HEADER HERE -->
 
     <h1 id="h1_index">2012 Building Vision Task Force Report</h1>

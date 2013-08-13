@@ -1,5 +1,6 @@
 <!-- BEGIN PAGE HEADER HERE -->
 <?php include '_includes/_header.php'; ?>
+<?php include '_includes/_phase1_navigation.php'; ?>
 <!-- END PAGE HEADER HERE -->
 
     <h1>SUMMARY</h1>

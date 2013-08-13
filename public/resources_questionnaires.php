@@ -1,5 +1,6 @@
 <!-- BEGIN PAGE HEADER HERE -->
 <?php include '_includes/_header_SUMMARY.php'; ?>
+<?php include '_includes/_phase1_navigation.php'; ?>
 <!-- END PAGE HEADER HERE -->
 
     <h1>RESOURCES</h1>
