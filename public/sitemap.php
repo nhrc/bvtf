@@ -5,6 +5,10 @@
     <h1>Sitemap</h1>
     <ul>
       <li><a href="index.php">Index (Home)</a></li>
+    </ul>
+    <h2>Phase 1</h2>
+    <ul>
+      <li><a href="phase1.php">Phase 1 (Home)</a></li>
       <li><a href="preface.php">Preface</a></li>
       <li><a href="methodology.php">Methodology / Rationale</a></li>
       <li><a href="table-of-contents.php">Table of Contents</a></li>
