@@ -6,3 +6,5 @@ To be a resource of notes and reports for the consistory of the church, as well 
 
 ## Production Copy
 Found at http://northholland.org/BVTF
+
+Copy the files found in the `public` directory into the BVTF directory on the church website server.
