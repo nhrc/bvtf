@@ -1,0 +1,21 @@
+#data-table {
+	display: none;
+}
+.bar span {
+	background: #fefefe url(../images/info-bg.gif) 0 100% repeat-x;
+}
+
+/* Bar Colors - CONCERNED */
+.fig0 {
+	background: #A2383A url(../images/bar-bg-concerned.jpg) 0 0 repeat-y;
+}
+
+/* Bar Colors - UNCONCERNED */
+.fig1 {
+	background: #337C33 url(../images/bar-bg-unconcerned.jpg) 0 0 repeat-y;
+}
+
+/* Bar Colors - UNDECIDED */
+.fig2 {
+	background: #747474 url(../images/bar-bg-undecided.jpg) 0 0 repeat-y;
+}

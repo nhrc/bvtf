@@ -1,0 +1,16 @@
+#data-table {
+	display: none;
+}
+.bar span {
+	background: #fefefe url(../images/info-bg.gif) 0 100% repeat-x;
+}
+
+/* Bar Colors - INDIVIDUALS */
+.fig0 {
+	background: #e2701e url(../images/bar-bg-individuals.jpg) 0 0 repeat-y;
+}
+
+/* Bar Colors - TEAMS */
+.fig1 {
+	background: #2e9bd7 url(../images/bar-bg-teams.jpg) 0 0 repeat-y;
+}
