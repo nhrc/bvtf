@@ -1,4 +1,9 @@
-# August 13, 2013 at 6:30 p.m.
+<!-- FONTS ================================================== -->
+<link href='http://fonts.googleapis.com/css?family=Oswald:400,300' rel='stylesheet' type='text/css'>
+<!-- ======================================================== -->
+
+# Building Vision Task Force
+August 13, 2013 at 6:30 p.m.
 
 ## Team
 * Karen Kamphuis
