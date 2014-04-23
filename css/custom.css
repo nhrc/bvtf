@@ -1,0 +1,9 @@
+.shadow {
+  -moz-box-shadow:    2px 2px 3px 3px #ccc;
+  -webkit-box-shadow: 2px 2px 3px 3px #ccc;
+  box-shadow:         2px 2px 3px 3px #ccc;
+}
+
+.margin {
+  margin: 15px;
+}
